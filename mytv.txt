@@ -262,49 +262,6 @@ CGTN,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 安徽卫视,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/001/2000298003.m3u8
 
 
-中央台,#genre#
-CCTV1 综合,http://112.50.243.8/PLTV/88888888/224/3221225922/1.m3u8
-CCTV2 财经,http://112.50.243.8/PLTV/88888888/224/3221225923/1.m3u8
-CCTV3 综艺,http://112.50.243.8/PLTV/88888888/224/3221225924/1.m3u8
-CCTV4 中文国际,http://112.50.243.8/PLTV/88888888/224/3221225802/1.m3u8
-CCTV5 体育,http://112.50.243.8/PLTV/88888888/224/3221225925/1.m3u8
-CCTV5+ 体育赛事,http://112.50.243.8/PLTV/88888888/224/3221225939/1.m3u8
-CCTV6 电影,http://112.50.243.8/PLTV/88888888/224/3221225926/1.m3u8
-CCTV7 国防军事,http://112.50.243.8/PLTV/88888888/224/3221225927/1.m3u8
-CCTV8 电视剧,http://112.50.243.8/PLTV/88888888/224/3221225928/1.m3u8
-CCTV9 纪录,http://112.50.243.8/PLTV/88888888/224/3221225929/1.m3u8
-CCTV10 科教,http://112.50.243.8/PLTV/88888888/224/3221225931/1.m3u8
-CCTV11 戏曲,http://112.50.243.8/PLTV/88888888/224/3221225815/1.m3u8
-CCTV12 社会与法,http://112.50.243.8/PLTV/88888888/224/3221225932/1.m3u8
-CCTV13 新闻,http://112.50.243.8/PLTV/88888888/224/3221225817/1.m3u8
-CCTV14 少儿,http://112.50.243.8/PLTV/88888888/224/3221225933/1.m3u8
-CCTV15 音乐,http://112.50.243.8/PLTV/88888888/224/3221225818/1.m3u8
-CCTV 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-CCTV 世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
-CCTV 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
-CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
-CCTV 风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-CCTV 风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
-CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-
-
-全国卫视,#genre#
-广东卫视,http://112.50.243.8/PLTV/88888888/224/3221225942/1.m3u8
-深圳卫视,http://112.50.243.8/PLTV/88888888/224/3221225938/1.m3u8
-安徽卫视,http://112.50.243.8/PLTV/88888888/224/3221225945/1.m3u8
-江苏卫视,http://112.50.243.8/PLTV/88888888/224/3221225930/1.m3u8
-浙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225934/1.m3u8
-湖南卫视,http://112.50.243.8/PLTV/88888888/224/3221225935/1.m3u8
-东方卫视,http://112.50.243.8/PLTV/88888888/224/3221225936/1.m3u8
-北京卫视,http://112.50.243.8/PLTV/88888888/224/3221225937/1.m3u8
-黑龙江卫视,http://112.50.243.8/PLTV/88888888/224/3221225940/1.m3u8
-天津卫视,http://112.50.243.8/PLTV/88888888/224/3221225941/1.m3u8
-山东卫视,http://112.50.243.8/PLTV/88888888/224/3221225943/1.m3u8
-辽宁卫视,http://112.50.243.8/PLTV/88888888/224/3221225947/1.m3u8
-重庆卫视,http://112.50.243.8/PLTV/88888888/224/3221225949/1.m3u8
-湖北卫视,http://112.50.243.8/PLTV/88888888/224/3221225948/1.m3u8
-
-
 北京台,#genre#
 北京卫视,http://ivi.bupt.edu.cn/hls/btv1hd.m3u8
 北京文艺,http://ivi.bupt.edu.cn/hls/btv2hd.m3u8
@@ -355,6 +312,14 @@ CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
 
 
 其他,#genre#
+CCTV 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
+CCTV 世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
+CCTV 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
+CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
+CCTV 风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
+CCTV 风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
+CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
+
 CHC华诚-高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
 CHC华诚-家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
 CHC华诚-动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
@@ -369,5 +334,8 @@ CETV-3,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
 CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 
 开奖,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
+
+
+
 
 
