@@ -33,6 +33,8 @@
 有线新闻台 源5,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 有线新闻台 rtmp,rtmp://rtmp.live.xylive.tv/live/youxianxinwen
 
+唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
+
 ViuTV 自iptv.http://192.168.10.212/viu_iptv.php
 
 RTHK31 p8p,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
