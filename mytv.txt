@@ -1,3 +1,6 @@
+
+《囧妈》,http://hong.tianzhen-zuida.com/20200125/19217_95dc471d/index.m3u8
+
 港澳台,#genre#
 翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
