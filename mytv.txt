@@ -48,6 +48,7 @@ RTHK31 p8p,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 
 C+频道 源1,http://wowgua.com/live/channel_utv_c_plus.m3u8
 C+频道 源2,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
+C+频道 源3,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/02.m3u8?sessionID=gmNue0D5hVMc3FA3miARkwzz
 
 TVB星河台 源1,http://flv.live.xylive.tv/live/0040.flv
 TVB星河台 源2,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
@@ -92,13 +93,17 @@ STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 
+
+
 TVBS vjms,vjms://58.215.133.185:8500:3502/live/cid=349
 TVBS新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=348
 年代新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=455
 非凡新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=443
 三立新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=352
 
+
 CNBC vjms,vjms://58.215.133.185:8500:3502/live/cid=98
+
 
 ELTA体育HD vjms,vjms://58.215.133.185:8500:3502/live/cid=266
 
@@ -130,8 +135,15 @@ FOXSPORT-3 vjms,vjms://58.215.133.185:8500:3502/live/cid=95
 动物星球 vjms,vjms://58.215.133.185:8500:3502/live/cid=3
 TLC旅游生活 vjms,vjms://58.215.133.185:8500:3502/live/cid=103
 年代MUCH vjms,vjms://58.215.133.185:8500:3502/live/cid=439
+
+Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
+
 迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
+
+
+
+
 
 
 凤凰台,#genre#
