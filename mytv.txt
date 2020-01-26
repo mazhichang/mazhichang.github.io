@@ -2,17 +2,18 @@
 自建源,#genre#
 翡翠台 iptv222,http://192.168.10.212/tvb_iptv.php
 翡翠台J2 iptv222,http://192.168.10.212/tvb_j2_iptv.php
+翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
 明珠台 iptv222,http://192.168.10.212/tvb_pearl_iptv.php
 无线新闻台 官,http://192.168.10.212/tvb_news.php
 ViuTV iptv222.http://192.168.10.212/viu_iptv.php
 
-广州综合 自10m,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
-广州新闻 自10m,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
-广州法治 自10m,http://192.168.10.212/gztv.php?5c7f7097e4b01c17db18fbd7
-广州竞赛 自10m,http://192.168.10.212/gztv.php?5c7f70b7e4b01c17db18fbd9
-广州影视 自10m,http://192.168.10.212/gztv.php?5c7f70dce4b01c17db18fbdb
-广州少儿 自10m,http://192.168.10.212/gztv.php?5c7f711de4b01c17db18fbdf
-广州生活 自10m,http://192.168.10.212/gztv.php?5c7f70fee4b01c17db18fbdd
+广州综合 10min,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
+广州新闻 10min,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
+广州法治 10min,http://192.168.10.212/gztv.php?5c7f7097e4b01c17db18fbd7
+广州竞赛 10min,http://192.168.10.212/gztv.php?5c7f70b7e4b01c17db18fbd9
+广州影视 10min,http://192.168.10.212/gztv.php?5c7f70dce4b01c17db18fbdb
+广州少儿 10min,http://192.168.10.212/gztv.php?5c7f711de4b01c17db18fbdf
+广州生活 10min,http://192.168.10.212/gztv.php?5c7f70fee4b01c17db18fbdd
 
 《囧妈》,http://hong.tianzhen-zuida.com/20200125/19217_95dc471d/index.m3u8
 
@@ -26,7 +27,6 @@ ViuTV iptv222.http://192.168.10.212/viu_iptv.php
 翡翠台 P8p,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 
 翡翠台J2 源1,rtmp://rtmp.live.xylive.tv/live/001234
-翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
 翡翠台J2 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 翡翠台J2 P8p,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 
