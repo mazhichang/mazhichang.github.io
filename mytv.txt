@@ -1,31 +1,43 @@
 
+自建源,#genre#
+翡翠台 iptv222,http://192.168.10.212/tvb_iptv.php
+翡翠台J2 iptv222,http://192.168.10.212/tvb_j2_iptv.php
+明珠台 iptv222,http://192.168.10.212/tvb_pearl_iptv.php
+无线新闻台 官,http://192.168.10.212/tvb_news.php
+ViuTV iptv222.http://192.168.10.212/viu_iptv.php
+
+广州综合 自10m,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
+广州新闻 自10m,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
+广州法治 自10m,http://192.168.10.212/gztv.php?5c7f7097e4b01c17db18fbd7
+广州竞赛 自10m,http://192.168.10.212/gztv.php?5c7f70b7e4b01c17db18fbd9
+广州影视 自10m,http://192.168.10.212/gztv.php?5c7f70dce4b01c17db18fbdb
+广州少儿 自10m,http://192.168.10.212/gztv.php?5c7f711de4b01c17db18fbdf
+广州生活 自10m,http://192.168.10.212/gztv.php?5c7f70fee4b01c17db18fbdd
+
 《囧妈》,http://hong.tianzhen-zuida.com/20200125/19217_95dc471d/index.m3u8
+
 
 港澳台,#genre#
 翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
-翡翠台 自iptv,http://192.168.10.212/tvb_iptv.php
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 翡翠台 P8p,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 
 翡翠台J2 源1,rtmp://rtmp.live.xylive.tv/live/001234
 翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
-翡翠台J2 自iptv,http://192.168.10.212/tvb_j2_iptv.php
 翡翠台J2 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 翡翠台J2 P8p,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 
 明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
 明珠台 源2,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台 自iptv,http://192.168.10.212/tvb_pearl_iptv.php
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 明珠台 P8p,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 
 无线新闻台 源1,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台 源2,http://sousou2.top:80/dl/tvb.php?id=inews
-无线新闻台 官,http://192.168.10.212/tvb_news.php
 无线新闻台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 无线新闻台 msc,msc://CIN5
 
@@ -37,8 +49,6 @@
 有线新闻台 rtmp,rtmp://rtmp.live.xylive.tv/live/youxianxinwen
 
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
-
-ViuTV 自iptv.http://192.168.10.212/viu_iptv.php
 
 RTHK31 p8p,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 
@@ -201,26 +211,12 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 南方购物,http://nclive.grtn.cn/nfgw/sd/live.m3u8
 
 广州综合,https://aplay.gztv.com/sec/zhonghe.m3u8
-广州综合 自10m,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
-
 广州新闻,https://aplay.gztv.com/sec/xinwen.m3u8
-广州新闻 自10m,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
-
 广州法治,https://aplay.gztv.com/sec/jingji.m3u8
-广州法治 自10m,http://192.168.10.212/gztv.php?5c7f7097e4b01c17db18fbd7
-
 广州竞赛,https://aplay.gztv.com/sec/jingsai.m3u8
-广州竞赛 自10m,http://192.168.10.212/gztv.php?5c7f70b7e4b01c17db18fbd9
-
 广州影视,https://aplay.gztv.com/sec/yingshi.m3u8
-广州影视 自10m,http://192.168.10.212/gztv.php?5c7f70dce4b01c17db18fbdb
-
 广州少儿,https://aplay.gztv.com/sec/shaoer.m3u8
-广州少儿 自10m,http://192.168.10.212/gztv.php?5c7f711de4b01c17db18fbdf
-
 广州生活,https://aplay.gztv.com/sec/shenghuo.m3u8
-广州生活 自10m,http://192.168.10.212/gztv.php?5c7f70fee4b01c17db18fbdd
-
 广州购物,https://aplay.gztv.com/sec/gouwu.m3u8
 
 佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
