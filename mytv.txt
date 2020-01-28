@@ -4,7 +4,8 @@
 翡翠台J2 iptv222,http://192.168.10.212/tvb_j2_iptv.php
 翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
 明珠台 iptv222,http://192.168.10.212/tvb_pearl_iptv.php
-无线新闻台 官,http://192.168.10.212/tvb_news.php
+无线新闻台 tvb,http://192.168.10.212/tvb_news.php
+无线财经台 tvb,http://192.168.10.212/tvb_finance.php
 ViuTV iptv222.http://192.168.10.212/viu_iptv.php
 
 广州综合 10min,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
