@@ -21,43 +21,29 @@ ViuTV iptv222,http://192.168.10.212/viu_iptv.php
 翡翠台 源1,http://pull.leshantangjt.com/live/80b9edt81bgd8b79d8ccba93c/playlist.m3u8
 翡翠台 源2,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台 源4,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv&_res_tag_=video
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
-翡翠台 P8p,p8p://0198.02686.cc:16871/5d1a69fb000eb19011bef55c89140144.ts
 
 翡翠台J2 源1,http://pull.gzbqd.com/live/a872014aa1a272c314ab7aaf/playlist.m3u8
 翡翠台J2 源2,rtmp://rtmp.live.xylive.tv/live/001234
-翡翠台J2 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
-翡翠台J2 P8p,p8p://0198.02686.cc:16871/5d1a6990000c457811bd52c53e48f6b9.ts
 
-明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=12
-明珠台 源2,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=12&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 明珠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-明珠台 P8p,p8p://0198.02686.cc:16871/5d1a69de0005348e11be81a666c79a56.ts
 
 无线新闻台 源1,http://pull.leshantangjt.com/live/596f23c3ab1a7c22b10211a71/playlist.m3u8
-无线新闻台 源2,http://www.liveviptv.xyz/tv/tvb.php
-无线新闻台 源3,http://sousou2.top:80/dl/tvb.php?id=inews
+无线新闻台 源2,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 无线新闻台 msc,msc://CIN5
 
-
 有线新闻台 源1,http://pull.leshantangjt.com/live/af31bc51121c69b101bf85792/playlist.m3u8
-有线新闻台 源2,http://107.148.215.110:888/v/tvb.php
-有线新闻台 源3,http://wowgua.com/live/channel_109.m3u8
-有线新闻台 源4,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-有线新闻台 源5,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-有线新闻台 源6,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-有线新闻台 rtmp,rtmp://rtmp.live.xylive.tv/live/youxianxinwen
+有线新闻台 源2,http://wowgua.com/live/channel_109.m3u8
+有线新闻台 源3,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有线新闻台 源5,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 ViuTV,http://pull.leshantangjt.com/live/895a37aa61abccc14add4/playlist.m3u8
 
-
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
-
-RTHK31 p8p,p8p://0198.02686.cc:16871/5d495caf000f16ce956b79188dfc18de.ts
 
 有线18台 rtmp,rtmp://rtmp.live.xylive.tv/live/18tai
 
@@ -70,21 +56,12 @@ C+频道 源1,http://wowgua.com/live/channel_utv_c_plus.m3u8
 C+频道 源2,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 C+频道 源3,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/02.m3u8?sessionID=gmNue0D5hVMc3FA3miARkwzz
 
-TVB星河台 源1,http://flv.live.xylive.tv/live/0040.flv
-TVB星河台 源2,http://104.250.154.42:8080/ZZ_xinghe/ZZ_xinghe.m3u8
-TVB星河台 p8p,p8p://0198.02686.cc:16871/5d1a69940005adb211bd60b57a4af31b.ts
+TVB星河台,http://flv.live.xylive.tv/live/0040.flv
 TVB星河台 msc,msc://CXHMovie
-
-娱乐新闻台 msc,msc://CEN5
 
 TVB韩剧台 msc,msc://CKDrama5
 
-TVB粤语台 msc,msc://CCMovie
-
-TVB功夫台 源1,http://flv.live.xylive.tv:80/live/0030.flv
 TVB功夫台 msc,msc://CKF5
-
-TVB8 msc,msc://CTVB8
 
 Channel V rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
