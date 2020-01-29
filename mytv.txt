@@ -18,30 +18,25 @@ ViuTV iptv222,http://192.168.10.212/viu_iptv.php
 
 
 港澳台,#genre#
-翡翠台 源1,http://pull.leshantangjt.com/live/80b9edt81bgd8b79d8ccba93c/playlist.m3u8
-翡翠台 源2,rtmp://rtmp.live.xylive.tv/live/00fc
-翡翠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
+翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 
-翡翠台J2 源1,http://pull.gzbqd.com/live/a872014aa1a272c314ab7aaf/playlist.m3u8
-翡翠台J2 源2,rtmp://rtmp.live.xylive.tv/live/001234
+翡翠台J2 源1,rtmp://rtmp.live.xylive.tv/live/001234
 
-明珠台 源3,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
-无线新闻台 源1,http://pull.leshantangjt.com/live/596f23c3ab1a7c22b10211a71/playlist.m3u8
+无线新闻台 源1,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台 源2,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
 无线新闻台 msc,msc://CIN5
 
-有线新闻台 源1,http://pull.leshantangjt.com/live/af31bc51121c69b101bf85792/playlist.m3u8
-有线新闻台 源2,http://wowgua.com/live/channel_109.m3u8
-有线新闻台 源3,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
-有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
-有线新闻台 源5,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
-
-ViuTV,http://pull.leshantangjt.com/live/895a37aa61abccc14add4/playlist.m3u8
+有线新闻台 源1,http://wowgua.com/live/channel_109.m3u8
+有线新闻台 源2,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
+有线新闻台 源3,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
+有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
 
@@ -178,10 +173,8 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
-广东体育 源1,http://nclive.grtn.cn/typd/sd/live.m3u8
-广东体育 源2,http://104.250.154.42:8080/ZZ_guangdongtiyu/ZZ_guangdongtiyu.m3u8
-广东体育 HD 源1,https://116.77.72.195/streams/d/gdty/playlist.m3u8
-广东体育 HD 源2,http://pull.leshantangjt.com/live/5aeb6a8a6bd26adf711bb249/playlist.m3u8
+广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广东体育 HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
 
