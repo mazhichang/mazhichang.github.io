@@ -7,6 +7,7 @@
 无线新闻台 tvb,http://192.168.10.212/tvb_news.php
 无线财经台 tvb,http://192.168.10.212/tvb_finance.php
 ViuTV iptv222,http://192.168.10.212/viu_iptv.php
+广东体育HD iptv222,http://192.168.10.212/gdtv_sport_iptv.php
 
 广州综合 10min,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
 广州新闻 10min,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
