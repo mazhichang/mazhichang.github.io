@@ -1,5 +1,6 @@
 
 自建源,#genre#
+翡翠台 iptv_test,http://192.168.10.212/tvb_iptv_test.php
 翡翠台 iptv222,http://192.168.10.212/tvb_iptv.php
 翡翠台J2 iptv222,http://192.168.10.212/tvb_j2_iptv.php
 翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
