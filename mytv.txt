@@ -1,14 +1,15 @@
-
 自建源,#genre#
 翡翠台 iptv_test,http://192.168.10.212/tvb_iptv_test.php
-翡翠台 iptv222,http://192.168.10.212/tvb_iptv.php
-翡翠台J2 iptv222,http://192.168.10.212/tvb_j2_iptv.php
+
+翡翠台 iptv,http://192.168.10.212/iptv.php?act=play&token=48f8ebfdc824484d3936fa9b922b8011&tid=gt&id=1
+翡翠台J2 iptv,http://192.168.10.212/iptv.php?act=play&token=9fbe61998755563e463cf144b17fa790&tid=gt&id=12
 翡翠台J2 79789,http://192.168.10.212/tvb_j2_79789.php
-明珠台 iptv222,http://192.168.10.212/tvb_pearl_iptv.php
+ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200ad873e22b7&tid=gt&id=8
+广东体育HD iptv,http://192.168.10.212/iptv.php?act=play&token=e7d34918592df9d748c0df1454c198b2&tid=ty&id=6
+明珠台 iptv,http://192.168.10.212/iptv.php?act=play&token=bc9708680a2d5b03ade95554df25539f&tid=gt&id=13
+
 无线新闻台 tvb,http://192.168.10.212/tvb_news.php
 无线财经台 tvb,http://192.168.10.212/tvb_finance.php
-ViuTV iptv222,http://192.168.10.212/viu_iptv.php
-广东体育HD iptv222,http://192.168.10.212/gdtv_sport_iptv.php
 
 广州综合 10min,http://192.168.10.212/gztv.php?5c7f7072e4b01c17db18fbd5
 广州新闻 10min,http://192.168.10.212/gztv.php?5c7f6f73e4b01c17db18fbd3
