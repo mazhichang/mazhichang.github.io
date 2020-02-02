@@ -23,21 +23,27 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 港澳台,#genre#
 翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-翡翠台 源3,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
+翡翠台 源3,http://hls.ws.anyrtc.io/live/f0eece805ced215dc81070696fe5b7d0.flv
+翡翠台 源4,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 
 翡翠台J2 源1,http://pp.jahddci.top/800/465.m3u8?auth_key=2118278139-0-0-f6da5ce9c0eb649f13726fb05bfcb02c
+翡翠台J2 源2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
 翡翠台J2 rtmp1,rtmp://rtmp.live.xylive.tv/live/001234
 翡翠台J2 rtmp2,rtmp://pp.jahddci.top/800/465?auth_key=2118278139-0-0-28d2e127c6e524e6fd466acd07114837
 
 
 明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台 源2,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 源2,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
+无线新闻台 源3,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv
 无线新闻台 msc,msc://CIN5
+
+无线财经台,http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv
 
 有线新闻台 源1,http://wowgua.com/live/channel_109.m3u8
 有线新闻台 源2,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
@@ -146,6 +152,28 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 
 迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
 
+中视,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv
+华视,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv
+台视,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
+民视,http://hls.ws.anyrtc.io/live/ffa07b8234d62bcb96532bc7c4a6e094.flv
+中视经典,http://hls.ws.anyrtc.io/live/3691d684e7a6dc5747651be0b3203b41.flv
+八大第一,http://hls.ws.anyrtc.io/live/6c2ed0de57fd5f9279080cd29e26d36c.flv
+八大综合,http://hls.ws.anyrtc.io/live/67e87d37db3f706e02e5ea145f9c9456.flv
+八大戏剧,http://hls.ws.anyrtc.io/live/2ca9e62b93b7a00c09d89852ac0ef349.flv
+东森戏剧,http://hls.ws.anyrtc.io/live/d4209091aa404eae562456c6886ea50b.flv
+东森新闻,http://hls.ws.anyrtc.io/live/f3b0a3e1f5e84f129be41b04dde1d996.flv
+中天新闻,http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
+寰宇新闻,http://hls.ws.anyrtc.io/live/5b3aeb72f1370e47c024677d8db406b0.flv
+TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
+东森幼幼,http://hls.ws.anyrtc.io/live/aec5f8f8fbc80c9bb508bd545d838605.flv
+美亚电影,http://hls.ws.anyrtc.io/live/10ad9dd6cfa18ae01a521491b7a67b5b.flv
+星卫电影,http://hls.ws.anyrtc.io/live/a650002891ef7478575780ba5f6a626c.flv
+好莱坞电影台,http://hls.ws.anyrtc.io/live/02940045594de64e9e9e11662e9965ca.flv
+天映经典,http://hls.ws.anyrtc.io/live/b19ab1e5457f0875f0e0c0e5a1c84de1.flv
+双星台,http://hls.ws.anyrtc.io/live/59e020b6d6b8ebd6d5451b2c9f9d3c0c.flv
+全佳台,http://hls.ws.anyrtc.io/live/c8a1dd1bdcd18bfeac853eeb041c7c0b.flv
+华丽台,http://hls.ws.anyrtc.io/live/d4febed828eefc5dc366dfafbce6bccc.flv
+欢喜台,http://hls.ws.anyrtc.io/live/cf60a04ad63be060d88652c4816252ef.flv
 
 凤凰台,#genre#
 凤凰中文台 源1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
