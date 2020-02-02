@@ -39,6 +39,11 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 有线新闻台 源3,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
+凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
+凤凰香港台 源3,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
+凤凰香港台 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
+
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
 
 有线18台 rtmp,rtmp://rtmp.live.xylive.tv/live/18tai
@@ -52,8 +57,8 @@ C+频道 源1,http://wowgua.com/live/channel_utv_c_plus.m3u8
 C+频道 源2,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 C+频道 源3,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/02.m3u8?sessionID=gmNue0D5hVMc3FA3miARkwzz
 
-TVB星河台,http://flv.live.xylive.tv/live/0040.flv
-TVB星河台 msc,msc://CXHMovie
+TVB星河台国语,http://flv.live.xylive.tv/live/0040.flv
+TVB星河台粤语 msc,msc://CXHMovie
 
 TVB韩剧台 msc,msc://CKDrama5
 
@@ -136,10 +141,6 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
 
 
-
-
-
-
 凤凰台,#genre#
 凤凰中文台 源1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文台 源2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
@@ -158,11 +159,6 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 凤凰资讯台 源6,http://liveali.ifeng.com/live/FHZX.m3u8
 凤凰资讯台 源7,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzx
 凤凰资讯台 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd0c48000e15630244781932ff7852
-
-凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
-凤凰香港台 源3,http://220.158.149.14:9999/live/TV00000000000000000068@HHZT;LIVE
-凤凰香港台 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd0c19000767ad0243becb40b07246
 
 凤凰电影台 源1,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 凤凰电影台 源2,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
