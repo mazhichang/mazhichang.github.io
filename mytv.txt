@@ -31,9 +31,7 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
-无线新闻台 源1,http://www.liveviptv.xyz/tv/tvb.php
-无线新闻台 源2,http://sousou2.top:80/dl/tvb.php?id=inews
-无线新闻台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a562bec0007bfd761a2998e00b83dd5
+无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 msc,msc://CIN5
 
 有线新闻台 源1,http://wowgua.com/live/channel_109.m3u8
