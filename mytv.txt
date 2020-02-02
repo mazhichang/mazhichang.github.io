@@ -23,6 +23,7 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 港澳台,#genre#
 翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台 源3,http://61.147.122.15/flv.live.xylive.tv/live/00fc.flv
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 
@@ -35,6 +36,7 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
+无线新闻台 源2,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
 无线新闻台 msc,msc://CIN5
 
 有线新闻台 源1,http://wowgua.com/live/channel_109.m3u8
@@ -50,6 +52,7 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
 
 有线18台 rtmp,rtmp://rtmp.live.xylive.tv/live/18tai
+有线18台 源1,http://61.147.122.14/flv.live.xylive.tv/live/18tai.flv
 
 有线娱乐台 源1,http://wowgua.com/live/channel_301.m3u8
 有线娱乐台 源2,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
@@ -95,11 +98,11 @@ STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 澳门卫视,http://stream.mastvnet.com/MSTV/SD/live.m3u8
 
-
-
 TVBS vjms,vjms://58.215.133.185:8500:3502/live/cid=349
 TVBS新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=348
 年代新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=455
+年代新闻 源1,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
+
 非凡新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=443
 三立新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=352
 
