@@ -184,6 +184,7 @@ Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 广东经视 TVS1,http://nclive.grtn.cn/tvs1/sd/live.m3u8
 南方卫视 TVS2,http://nclive.grtn.cn/tvs2/sd/live.m3u8
 广东综艺 TVS3,http://nclive.grtn.cn/tvs3/sd/live.m3u8
+广东综艺 4K,http://nclive.grtn.cn/4K/sd/live.m3u8
 广东影视 TVS4,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东少儿 TVS5,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 经济科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
