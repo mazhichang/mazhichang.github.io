@@ -71,6 +71,10 @@ C+频道 源1,http://wowgua.com/live/channel_utv_c_plus.m3u8
 C+频道 源2,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/index.m3u8
 C+频道 源3,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/02.m3u8?sessionID=gmNue0D5hVMc3FA3miARkwzz
 
+阳光卫视,http://220.158.149.28:8180/TV00000000000000000062@HHZT;LIVE
+
+RHK31,http://220.158.149.28:8180/TV00000000000000000037@HHZT;LIVE
+
 TVB星河台国语,http://flv.live.xylive.tv/live/0040.flv
 TVB星河台粤语 msc,msc://CXHMovie
 
@@ -78,7 +82,8 @@ TVB韩剧台 msc,msc://CKDrama5
 
 TVB功夫台 msc,msc://CKF5
 
-Channel V rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+Channel[V]rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
+Channel[V],http://220.158.149.28:8180/TV00000000000000000065@HHZT;LIVE?DSJTV.m3u8
 
 MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 MTV vjms,vjms://58.215.133.185:8500:3502/live/cid=52
