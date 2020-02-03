@@ -102,7 +102,8 @@ RTHK31 P2p,P2p://sdgdklwos.finetv.tv:9906/5b1ea0dc000bba59d03063fa2f1a513c
 RTHK32 P2p,P2p://sdgdklwos.finetv.tv:9906/5b1ea120000af380d0316d6b59657817
 
 TVB星河台国语,http://flv.live.xylive.tv/live/0040.flv
-TVB星河台 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
+
+TVB星河台粤语 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd3f91000c54e4030cccd33c6f6c3c
 TVB星河台粤语 msc,msc://CXHMovie
 
 TVB韩剧台 msc,msc://CKDrama5
