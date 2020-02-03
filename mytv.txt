@@ -28,14 +28,16 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 
-翡翠台J2 源1,http://pp.jahddci.top/800/465.m3u8?auth_key=2118278139-0-0-f6da5ce9c0eb649f13726fb05bfcb02c
-翡翠台J2 源2,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
+翡翠台J2 源1,http://idceasypanel2288.m6u.cn/tv2/j2.php?id=133
+翡翠台J2 源2,http://180.94.172.134:8891/stream/channelid/2087466757
+翡翠台J2 源3,http://pp.jahddci.top/800/465.m3u8?auth_key=2118278139-0-0-f6da5ce9c0eb649f13726fb05bfcb02c
+翡翠台J2 源4,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
 翡翠台J2 rtmp1,rtmp://rtmp.live.xylive.tv/live/001234
 翡翠台J2 rtmp2,rtmp://pp.jahddci.top/800/465?auth_key=2118278139-0-0-28d2e127c6e524e6fd466acd07114837
 
-
-明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台 源2,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
+明珠台 源1,http://livepgc0002.sobeycache.com/live/578mzm.m3u8
+明珠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台 源3,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
 明珠台 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
@@ -315,6 +317,13 @@ CGTN,http://183.194.230.121/tlivecloud-cdn.ysp.cctv.cn/001/2001656803.m3u8
 
 
 其他,#genre#
+CCTV移列车频,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/dd6b2b145cf3e0aafe1600b2a76f69bd/1200.m3u8
+CCTV地铁频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/495eb58028c3083f75979aca35f58e9c/1200.m3u8
+CCTV快客频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/5047241ff7bb4ddfe6fb17dfa1c8571c/1200.m3u8
+CCTV楼宇频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/8a30d60d13ac1f3ffb019870e5248d7c/1200.m3u8
+CCTV饭店频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/5327a6513fc16e5bc61c7b0721bdeb81/1200.m3u8
+CCTV广场频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/21823340cc0997f2097f2b0d5770b395/1200.m3u8
+
 CCTV 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
 CCTV 世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
 CCTV 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
