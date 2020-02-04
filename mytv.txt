@@ -32,6 +32,22 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 广州生活 10min,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
 广州生活 10min,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
 
+湖南经视[湖南],http://192.168.10.212/mgtv.php?id=280
+湖南都市[湖南],http://192.168.10.212/mgtv.php?id=346
+湖南公共[湖南],http://192.168.10.212/mgtv.php?id=261
+湖南娱乐[湖南],http://192.168.10.212/mgtv.php?id=344
+湖南电视剧[湖南],http://192.168.10.212/mgtv.php?id=484
+湖南国际[湖南],http://192.168.10.212/mgtv.php?id=229
+金鹰纪实[湖南],http://192.168.10.212/mgtv.php?id=316
+金鹰卡通[湖南],http://192.168.10.212/mgtv.php?id=287
+先锋兵羽[湖南],http://192.168.10.212/mgtv.php?id=329
+快乐垂钓[湖南],http://192.168.10.212/mgtv.php?id=218
+茶频道[湖南],http://192.168.10.212/mgtv.php?id=578
+长沙新闻[湖南],http://192.168.10.212/mgtv.php?id=269
+长沙政法[湖南],http://192.168.10.212/mgtv.php?id=254
+长沙女性[湖南],http://192.168.10.212/mgtv.php?id=230
+
+
 港澳台,#genre#
 翡翠台 源1,rtmp://rtmp.live.xylive.tv/live/00fc
 翡翠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
