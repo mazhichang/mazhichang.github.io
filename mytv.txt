@@ -59,9 +59,8 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 翡翠台 P2p4,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 翡翠台 P2p5,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
 
-翡翠台J2 源1,http://idceasypanel2288.m6u.cn/tv2/j2.php?id=133
+
 翡翠台J2 源2,http://180.94.172.134:8891/stream/channelid/2087466757
-翡翠台J2 源3,http://pp.jahddci.top/800/465.m3u8?auth_key=2118278139-0-0-f6da5ce9c0eb649f13726fb05bfcb02c
 翡翠台J2 源4,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
 翡翠台J2 rtmp1,rtmp://rtmp.live.xylive.tv/live/001234
 翡翠台J2 rtmp2,rtmp://pp.jahddci.top/800/465?auth_key=2118278139-0-0-28d2e127c6e524e6fd466acd07114837
