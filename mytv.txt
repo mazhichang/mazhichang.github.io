@@ -11,34 +11,34 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 无线新闻台 tvb,http://192.168.10.212/tvb_news.php
 无线财经台 tvb,http://192.168.10.212/tvb_finance.php
 
-广州综合 10min,http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5#http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5
+广州综合 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5#http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5
 
-广州新闻 10min,http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3#http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3
+广州新闻 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3#http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3
 
-广州法治 10min,http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7#http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7
+广州法治 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7#http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7
 
-广州竞赛 10min,http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9#http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9
+广州竞赛 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9#http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9
 
-广州影视 10min,http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb#http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb
+广州影视 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb#http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb
 
-广州少儿 10min,http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf#http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf
+广州少儿 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf#http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf
 
-广州生活 10min,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd#http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
+广州生活 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd#http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
 
-湖南经视[湖南],http://192.168.10.212/mgtv.php?id=280
-湖南都市[湖南],http://192.168.10.212/mgtv.php?id=346
-湖南公共[湖南],http://192.168.10.212/mgtv.php?id=261
-湖南娱乐[湖南],http://192.168.10.212/mgtv.php?id=344
-湖南电视剧[湖南],http://192.168.10.212/mgtv.php?id=484
-湖南国际[湖南],http://192.168.10.212/mgtv.php?id=229
-金鹰纪实[湖南],http://192.168.10.212/mgtv.php?id=316
-金鹰卡通[湖南],http://192.168.10.212/mgtv.php?id=287
-先锋兵羽[湖南],http://192.168.10.212/mgtv.php?id=329
-快乐垂钓[湖南],http://192.168.10.212/mgtv.php?id=218
-茶频道[湖南],http://192.168.10.212/mgtv.php?id=578
-长沙新闻[湖南],http://192.168.10.212/mgtv.php?id=269
-长沙政法[湖南],http://192.168.10.212/mgtv.php?id=254
-长沙女性[湖南],http://192.168.10.212/mgtv.php?id=230
+湖南经视 mgtv,http://192.168.10.212/mgtv.php?id=280
+湖南都市 mgtv,http://192.168.10.212/mgtv.php?id=346
+湖南公共 mgtv,http://192.168.10.212/mgtv.php?id=261
+湖南娱乐 mgtv,http://192.168.10.212/mgtv.php?id=344
+湖南电视剧 mgtv,http://192.168.10.212/mgtv.php?id=484
+湖南国际 mgtv,http://192.168.10.212/mgtv.php?id=229
+金鹰纪实 mgtv,http://192.168.10.212/mgtv.php?id=316
+金鹰卡通 mgtv,http://192.168.10.212/mgtv.php?id=287
+先锋兵羽 mgtv,http://192.168.10.212/mgtv.php?id=329
+快乐垂钓 mgtv,http://192.168.10.212/mgtv.php?id=218
+茶频道 mgtv,http://192.168.10.212/mgtv.php?id=578
+长沙新闻 mgtv,http://192.168.10.212/mgtv.php?id=269
+长沙政法 mgtv,http://192.168.10.212/mgtv.php?id=254
+长沙女性 mgtv,http://192.168.10.212/mgtv.php?id=230
 
 
 港澳台,#genre#
@@ -56,8 +56,6 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 翡翠台J2 源2,http://180.94.172.134:8891/stream/channelid/2087466757
 翡翠台J2 源4,http://hls.ws.anyrtc.io/live/b1ba78566b8f0f43aab66feeb74364fa.flv
 翡翠台J2 rtmp1,rtmp://rtmp.live.xylive.tv/live/001234
-翡翠台J2 rtmp2,rtmp://pp.jahddci.top/800/465?auth_key=2118278139-0-0-28d2e127c6e524e6fd466acd07114837
-翡翠台J2 P2p,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470
 
 VIU TV P2p,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 
@@ -65,7 +63,6 @@ VIU TV P2p,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 明珠台 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台 源3,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
 明珠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
-明珠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/59fd0d0a0009323a02476cb020fe16f9
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 源2,http://61.147.122.14/flv.live.xylive.tv/live/00wxxw.flv
