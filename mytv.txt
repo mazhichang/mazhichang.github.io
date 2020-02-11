@@ -12,17 +12,11 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 无线财经台 tvb,http://192.168.10.212/tvb_finance.php
 
 广州综合 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5#http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5
-
 广州新闻 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3#http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3
-
 广州法治 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7#http://192.168.10.212/gztv_curl.php?id=5c7f7097e4b01c17db18fbd7
-
 广州竞赛 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9#http://192.168.10.212/gztv_curl.php?id=5c7f70b7e4b01c17db18fbd9
-
 广州影视 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb#http://192.168.10.212/gztv_curl.php?id=5c7f70dce4b01c17db18fbdb
-
 广州少儿 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf#http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf
-
 广州生活 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd#http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
 
 湖南经视 mgtv,http://192.168.10.212/mgtv.php?id=280
@@ -253,8 +247,9 @@ TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
 珠江电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+南方卫视*,http://39.135.34.151:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000340100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
 岭南戏曲,rtsp://183.59.156.50/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPBlKSFKAWQ93IqM8mMlpFAA==:20200129225117,02040597503
-
+粤曲荟萃,rtsp://183.59.156.50/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPwKi63WlfjIZlVcffjQu5lQ==:20200129225117,02040597503
 
 TVS1经济科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
 TVS2南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
