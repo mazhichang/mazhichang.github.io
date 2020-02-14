@@ -36,40 +36,40 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 
 
 港澳台,#genre#
-翡翠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
 翡翠台 P2p3,p2p://lino.homeunix.com:6007/5a562a0b000d7041619b441d562d5ee8.ts
 翡翠台 P2p4,p2p://lino.homeunix.com:6007/5ad32c0d0000bbd049ef0eab717740e2.ts
 翡翠台 P2p5,p2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8.ts
 
+翡翠台J2[有家],http://47.240.60.73/hktv.php?id=12
 翡翠台J2 源1,http://180.94.172.134:8891/stream/channelid/2087466757
-翡翠台J2 rtmp1,rtmp://rtmp.live.xylive.tv/live/001234
 
+VIU TV[有家],http://47.240.60.73/hktv.php?id=8
 VIU TV P2p,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 
-明珠台 源1,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-明珠台 源2,http://hls.ws.anyrtc.io/live/65f9dbd5e37335c3ee4f5c0ffe6dc260.flv
+明珠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台[有家],http://47.240.60.73/zszb.php?id=13
 明珠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32b590006aefa49ec511272c5262e
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
-无线新闻台 源2,http://hls.ws.anyrtc.io/live/820e9878cd85ca0dd560bafd7bff4cbd.flv
-无线新闻台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
-无线新闻台 P2p3,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
+无线新闻台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
+无线新闻台 P2p2,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 无线新闻台 msc,msc://CIN5
 
-无线财经台 源1,http://hls.ws.anyrtc.io/live/ed709f05cac24e0cae8cf57feeb7dccd.flv
-无线财经台 源2,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+无线财经台 源1,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
 无线财经台 P2p1,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
 无线财经台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5ad32aed000d8fa649eaacf716d70340
 
+有线新闻台[有家],http://47.240.60.73/hktv.php?id=31
 有线新闻台 源1,https://icable.cdn.utvhk.com/live/4cc64fb362004798b222978935590b2c/1980ba5c365e4f049f99aced1277303c.m3u8
 有线新闻台 源2,http://wowgua.com/live/channel_109.m3u8
 有线新闻台 源3,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
-有线娱乐台 源1,http://wowgua.com/live/channel_301.m3u8
-有线娱乐台 源2,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+有线娱乐台 源1,https://icable.cdn.utvhk.com/live/72ee37b54d524bcb806957577dfdfd72/fe371c746eb94b01b7fb0e70569a2e9f.m3u8
+有线娱乐台 源2,http://wowgua.com/live/channel_301.m3u8
 
 凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
@@ -85,7 +85,7 @@ TVB武术台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
 
 Channel[V]rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
-MTV,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+MTV[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 MTV vjms,vjms://58.215.133.185:8500:3502/live/cid=52
 
 STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
@@ -115,50 +115,34 @@ TVBS vjms,vjms://58.215.133.185:8500:3502/live/cid=349
 TVBS新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=348
 年代新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=455
 年代新闻 源1,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-
 非凡新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=443
 三立新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=352
-
-
 CNBC vjms,vjms://58.215.133.185:8500:3502/live/cid=98
-
-
 ELTA体育HD vjms,vjms://58.215.133.185:8500:3502/live/cid=266
-
 HBO原创电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=436
 HBO原创电影mitv,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts
-
 HBO家庭 vjms,vjms://58.215.133.185:8500:3502/live/cid=181
-
 HBO强档 vjms,vjms://58.215.133.185:8500:3502/live/cid=238
 HBO强档mitv,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
-
 HBO vjms,vjms://58.215.133.185:8500:3502/live/cid=261
 HBO mitv,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
-
 FOX电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=94
 纬来戏剧 vjms,vjms://58.215.133.185:8500:3502/live/cid=137
 AXN vjms,vjms://58.215.133.185:8500:3502/live/cid=2
 公视 vjms,vjms://58.215.133.185:8500:3502/live/cid=236
-
 八大第一 vjms,vjms://58.215.133.185:8500:3502/live/cid=441
 FOXSPORT-3 vjms,vjms://58.215.133.185:8500:3502/live/cid=95
 纬来体育 vjms,vjms://58.215.133.185:8500:3502/live/cid=202
 国家地理野生 vjms,vjms://58.215.133.185:8500:3502/live/cid=263
-
 国家地理 vjms,vjms://58.215.133.185:8500:3502/live/cid=115
-
 探索亚洲 vjms,vjms://58.215.133.185:8500:3502/live/cid=440
 探索科学 vjms,vjms://58.215.133.185:8500:3502/live/cid=457
 动物星球 vjms,vjms://58.215.133.185:8500:3502/live/cid=3
 TLC旅游生活 vjms,vjms://58.215.133.185:8500:3502/live/cid=103
 年代MUCH vjms,vjms://58.215.133.185:8500:3502/live/cid=439
-
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
-
 迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
-
 中视,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv
 华视,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv
 台视,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
