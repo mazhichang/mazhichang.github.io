@@ -40,8 +40,7 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
 广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
 广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
-广东体育HD 源1,https://116.77.72.195/streams/d/gdty/playlist.m3u8
-广东体育HD 源2,http://ml.fzszyx.com/tvshow.php?id=165_3
+广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
 珠江电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
@@ -116,6 +115,9 @@ VIU TV P2p,P2p://sdgdklwos.finetv.tv:9906/59fd171800092000026eb35003107eef
 有线娱乐台 源2,http://wowgua.com/live/channel_301.m3u8
 
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+
+电影Guide,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_6122411_3473279.m3u8
+香港综合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 
 凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
 凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
@@ -199,37 +201,14 @@ TLC旅游生活 vjms,vjms://58.215.133.185:8500:3502/live/cid=103
 Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
 Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
 迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
-中视,http://hls.ws.anyrtc.io/live/6fe16691fa5f0b8499896bcec5ea16dc.flv
-华视,http://hls.ws.anyrtc.io/live/9d9990af17645649a912ffc184ab2aa8.flv
-台视,http://hls.ws.anyrtc.io/live/9f70e4c3bfb7afa4031b4938803a3136.flv
-民视,http://hls.ws.anyrtc.io/live/ffa07b8234d62bcb96532bc7c4a6e094.flv
-中视经典,http://hls.ws.anyrtc.io/live/3691d684e7a6dc5747651be0b3203b41.flv
-八大第一,http://hls.ws.anyrtc.io/live/6c2ed0de57fd5f9279080cd29e26d36c.flv
-八大综合,http://hls.ws.anyrtc.io/live/67e87d37db3f706e02e5ea145f9c9456.flv
-八大戏剧,http://hls.ws.anyrtc.io/live/2ca9e62b93b7a00c09d89852ac0ef349.flv
-东森戏剧,http://hls.ws.anyrtc.io/live/d4209091aa404eae562456c6886ea50b.flv
-东森新闻,http://hls.ws.anyrtc.io/live/f3b0a3e1f5e84f129be41b04dde1d996.flv
-中天新闻,http://hls.ws.anyrtc.io/live/70b6fc391558118220c89a1a94978f2b.flv
-寰宇新闻,http://hls.ws.anyrtc.io/live/5b3aeb72f1370e47c024677d8db406b0.flv
-TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
-东森幼幼,http://hls.ws.anyrtc.io/live/aec5f8f8fbc80c9bb508bd545d838605.flv
-美亚电影,http://hls.ws.anyrtc.io/live/10ad9dd6cfa18ae01a521491b7a67b5b.flv
-星卫电影,http://hls.ws.anyrtc.io/live/a650002891ef7478575780ba5f6a626c.flv
-好莱坞电影台,http://hls.ws.anyrtc.io/live/02940045594de64e9e9e11662e9965ca.flv
-天映经典,http://hls.ws.anyrtc.io/live/b19ab1e5457f0875f0e0c0e5a1c84de1.flv
-双星台,http://hls.ws.anyrtc.io/live/59e020b6d6b8ebd6d5451b2c9f9d3c0c.flv
-全佳台,http://hls.ws.anyrtc.io/live/c8a1dd1bdcd18bfeac853eeb041c7c0b.flv
-华丽台,http://hls.ws.anyrtc.io/live/d4febed828eefc5dc366dfafbce6bccc.flv
-欢喜台,http://hls.ws.anyrtc.io/live/cf60a04ad63be060d88652c4816252ef.flv
+
 
 凤凰台,#genre#
 凤凰中文台 源1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文台 源2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台 源3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
-凤凰中文台 源4,http://183.251.61.211/PLTV/88888888/224/3221225900/index.m3u8
 凤凰中文台 源5,rtmp://ivi.bupt.edu.cn:1935/livetv/fhzw
 凤凰中文台 源6,http://liveali.ifeng.com/live/FHZW.m3u8
-凤凰中文台 源7,http://220.158.149.14:9999/live/TV00000000000000000067@HHZT;LIVE
 凤凰中文台 源8,http://117.169.120.138:8080/live/fhchinese/index.m3u8
 凤凰中文台 源9,http://221.179.217.70/PLTV/88888888/224/3221225942/1.m3u8
 凤凰中文台 源10,http://223.110.245.139/PLTV/3/224/3221226922/index.m3u8
@@ -253,13 +232,11 @@ TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
 电影,#genre#
 东森电影,http://192.154.103.75:8080//ZZ_dongsendianying/ZZ_dongsendianying.m3u8
 东森洋片,http://192.154.103.75:8080//ZZ_dongsenyangpian/ZZ_dongsenyangpian.m3u8
-
 龙祥电影,http://192.154.103.75:8080/ZZ_shidai/ZZ_shidai.m3u8
 好莱坞电影,http://192.154.103.75:8080//ZZ_haolaiwu/ZZ_haolaiwu.m3u8
-
-电影Guide,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_6122411_3473279.m3u8
-
-香港综合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
+CHC华诚-高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
+CHC华诚-家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
+CHC华诚-动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
 电影1,http://aldirect.hls.huya.com/huyalive/29106097-2689453724-11551115788685410304-2847687506-10057-A-1525422901-1_1200.m3u8
 电影2,http://tx.hls.huya.com/huyalive/28466698-2689662310-11552011658733813760-3048959582-10057-A-1525512946-1.m3u8
 电影3,http://tx.hls.huya.com/huyalive/29106097-2689286606-11550398022340837376-2789274544-10057-A-0-1.m3u8
@@ -416,25 +393,11 @@ CCTV楼宇频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/defaul
 CCTV饭店频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/5327a6513fc16e5bc61c7b0721bdeb81/1200.m3u8
 CCTV广场频道,http://cntv.hls.cdn.myqcloud.com/asp/hls/1200/0303000a/3/default/21823340cc0997f2097f2b0d5770b395/1200.m3u8
 
-CCTV 兵器科技,rtmp://ivi.bupt.edu.cn:1935/livetv/gfjstv
-CCTV 世界地理,rtmp://ivi.bupt.edu.cn:1935/livetv/sjdltv
-CCTV 怀旧剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/hjjctv
-CCTV 风云足球,rtmp://ivi.bupt.edu.cn:1935/livetv/fyzqtv
-CCTV 风云音乐,rtmp://ivi.bupt.edu.cn:1935/livetv/fyyytv
-CCTV 风云剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/fyjctv
-CCTV 第一剧场,rtmp://ivi.bupt.edu.cn:1935/livetv/dyjctv
-
-CHC华诚-高清电影,http://ivi.bupt.edu.cn/hls/chchd.m3u8
-CHC华诚-家庭影院,http://zycfcdn.gdwlcloud.com/PLTV/88888888/224/3221225927/index.m3u8
-CHC华诚-动作电影,http://117.156.28.57/PLTV/88888888/224/3221225847/index.m3u8
-
 上视纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/docuchina
 金鹰纪实高清,rtmp://ivi.bupt.edu.cn:1935/livetv/gedocu
-纬来体育,http://pili-live-hdl.qhmywl.com/dsdtv/464311a99c6465a1f36681b73c62fa83.m3u8
-HBO HD 源2,http://pili-live-hdl.qhmywl.com/dsdtv/13e83b20bc716e68221da438d761d352.m3u8
 
 CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
 CETV-3,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
 CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 
-开奖,http://a.yinyishiye.com:1443/live/mylive/live.m3u8
+
