@@ -34,7 +34,49 @@ ViuTV iptv,http://192.168.10.212/iptv.php?act=play&token=f2c0b3f8d17f851fe98200a
 长沙女性 mgtv,http://192.168.10.212/mgtv.php?id=230
 
 
-港澳台,#genre#
+广东台,#genre#
+广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
+广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
+广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
+广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
+广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
+广东体育HD 源1,https://116.77.72.195/streams/d/gdty/playlist.m3u8
+广东体育HD 源2,http://ml.fzszyx.com/tvshow.php?id=165_3
+广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
+广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
+珠江电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+南方卫视*,http://39.135.34.151:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000340100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
+岭南戏曲[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPBlKSFKAWQ93IqM8mMlpFAA==:20200129225117,02040597503
+粤曲荟萃[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPwKi63WlfjIZlVcffjQu5lQ==:20200129225117,02040597503
+
+TVS1经济科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
+TVS2南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
+TVS3广东综艺,http://nclive.grtn.cn/tvs3/sd/live.m3u8
+TVS3广东综艺 4K,http://nclive.grtn.cn/4K/sd/live.m3u8
+TVS4广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
+TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
+嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
+高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
+南方购物,http://nclive.grtn.cn/nfgw/sd/live.m3u8
+
+佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
+佛山综合 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd
+佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
+佛山公共 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd
+佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
+佛山影视 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd
+佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
+佛山南海 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd
+佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
+佛山顺德 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd
+佛山高明,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
+佛山高明 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd
+佛山三水,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
+佛山三水 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd
+佛山禅城,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs-ccpd
+
+
+香港/澳门,#genre#
 翡翠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 翡翠台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32c0d0000bbd049ef0eab717740e2
 翡翠台 P2p2,P2p://sdgdklwos.finetv.tv:9906/5a562a0b000d7041619b441d562d5ee8
@@ -187,49 +229,6 @@ TVBS新闻台,http://hls.ws.anyrtc.io/live/af40538fc8e81e90e432662f8774ab45.flv
 凤凰电影台 源1,rtmp://ivi.bupt.edu.cn:1935/livetv/fhdy
 凤凰电影台 源2,https://116.77.72.195/streams/d/fhdy/playlist.m3u8
 凤凰电影台 源3,rtmp://58.200.131.2:1935/livetv/fhdy
-
-
-广东台,#genre#
-广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
-广东新闻,http://nclive.grtn.cn/xwpd/sd/live.m3u8
-广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
-广东公共,http://nclive.grtn.cn/ggpd/sd/live.m3u8
-广东体育,http://nclive.grtn.cn/typd/sd/live.m3u8
-广东体育HD 源1,https://116.77.72.195/streams/d/gdty/playlist.m3u8
-广东体育HD 源2,http://ml.fzszyx.com/tvshow.php?id=165_3
-广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
-广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
-珠江电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
-南方卫视*,http://39.135.34.151:18890/000000001000/1000000002000011619/1.m3u8?channel-id=ystenlive&Contentid=1000000002000011619&livemode=1&stbId=005203FF000340100001001A34C0CD33&userToken=bd8bb70bdb2b54bd84b587dffa024f7621vv&usergroup=g21077200000&version=1.0&owaccmark=1000000002000011619&owchid=ystenlive&owsid=1106497909461277024&AuthInfo=yOLXJswzZFfV3FvB8MhHuElKGJKLbU5H0jB3qAhfSE5oj7lZFbEKIj3xJcvQPkjhqSWAN1gOHXiNCpzkzcaOmsTwp2DyZ40cRRIhpnuB%2bW%2b75qTM61EOp0nB4FGyoQIk
-岭南戏曲[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPBlKSFKAWQ93IqM8mMlpFAA==:20200129225117,02040597503
-粤曲荟萃[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPwKi63WlfjIZlVcffjQu5lQ==:20200129225117,02040597503
-
-TVS1经济科教,http://nclive.grtn.cn/tvs1hd/hd/live.m3u8
-TVS2南方卫视,http://nclive.grtn.cn/tvs2/sd/live.m3u8
-TVS3广东综艺,http://nclive.grtn.cn/tvs3/sd/live.m3u8
-TVS3广东综艺 4K,http://nclive.grtn.cn/4K/sd/live.m3u8
-TVS4广东影视,http://nclive.grtn.cn/tvs4/sd/live.m3u8
-TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
-嘉佳卡通,http://nclive.grtn.cn/jjkt/sd/live.m3u8
-高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
-南方购物,http://nclive.grtn.cn/nfgw/sd/live.m3u8
-
-佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
-佛山综合 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd
-佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
-佛山公共 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd
-佛山影视,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd.m3u8
-佛山影视 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_yspd
-佛山南海,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd.m3u8
-佛山南海 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_nhpd
-佛山顺德,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd.m3u8
-佛山顺德 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_sdpd
-佛山高明,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd.m3u8
-佛山高明 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_gmpd
-佛山三水,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd.m3u8
-佛山三水 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_sspd
-佛山禅城,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs-ccpd
-
 
 咪咕,#genre#
 CCTV1HD,http://live.aikan.miguvideo.com/PLTV/88888888/224/3221229867/index.m3u8
