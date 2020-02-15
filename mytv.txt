@@ -100,6 +100,8 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 翡翠台J2 源1,http://180.94.172.134:8891/stream/channelid/2087466757
 翡翠台J2 p2p1,p2p://lino.homeunix.com:6007/59fd25e80008aaec02a88fc1476f2edf.ts
 翡翠台J2 p2p2,p2p://lino.homeunix.com:6007/5ad32b7d000cca4049ecdf4812f47470.ts
+翡翠台J2 p2p3,P2p://sdgdklwos.finetv.tv:9906/5ad32b7d000cca4049ecdf4812f47470
+翡翠台J2 p2p4,P2p://sdgdklwos.finetv.tv:9906/59fd25e80008aaec02a88fc1476f2edf
 
 明珠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
 明珠台[有家],http://47.240.60.73/zszb.php?id=13
@@ -145,8 +147,8 @@ viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 
 C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 
-RHK31 p2p,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
-RHK32 p2p,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
+RTHK31 p2p,p2p://lino.homeunix.com:6007/5b1ea0dc000bba59d03063fa2f1a513c.ts
+RTHK32 p2p,p2p://lino.homeunix.com:6007/5b1ea120000af380d0316d6b59657817.ts
 
 电影Guide,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_6122411_3473279.m3u8
 香港综合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
