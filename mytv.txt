@@ -119,10 +119,6 @@ C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
 电影Guide,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_6122411_3473279.m3u8
 香港综合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 
-凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
-凤凰香港台 源3,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
-
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
 
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
@@ -133,17 +129,6 @@ TVB星河台粤语 msc,msc://CXHMovie
 TVB武术台 P2p,P2p://sdgdklwos.finetv.tv:9906/5a32174e0001f481d4b0ec8f67f06c2b
 
 卫视电影台 P2p,P2p://sdgdklwos.finetv.tv:9906/59fd0369000ea5750221d12f32a532b8
-
-Channel[V]rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
-
-MTV[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
-MTV vjms,vjms://58.215.133.185:8500:3502/live/cid=52
-
-STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
-
-国家地理 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
-
-探索频道 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 
 香港卫视 源1,http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 香港卫视 源2,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
@@ -167,43 +152,22 @@ STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 澳视澳门 源1,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视澳门 源2,http://61.244.22.4/ch1/ch1.live/chunklist_w373079640.m3u8
 
+Channel[V]rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
+MTV[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+MTV vjms,vjms://58.215.133.185:8500:3502/live/cid=52
 
-TVBS vjms,vjms://58.215.133.185:8500:3502/live/cid=349
-TVBS新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=348
-年代新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=455
-年代新闻 源1,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
-非凡新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=443
-三立新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=352
-CNBC vjms,vjms://58.215.133.185:8500:3502/live/cid=98
-ELTA体育HD vjms,vjms://58.215.133.185:8500:3502/live/cid=266
-HBO原创电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=436
-HBO原创电影mitv,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts
-HBO家庭 vjms,vjms://58.215.133.185:8500:3502/live/cid=181
-HBO强档 vjms,vjms://58.215.133.185:8500:3502/live/cid=238
-HBO强档mitv,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
-HBO vjms,vjms://58.215.133.185:8500:3502/live/cid=261
-HBO mitv,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
-FOX电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=94
-纬来戏剧 vjms,vjms://58.215.133.185:8500:3502/live/cid=137
-AXN vjms,vjms://58.215.133.185:8500:3502/live/cid=2
-公视 vjms,vjms://58.215.133.185:8500:3502/live/cid=236
-八大第一 vjms,vjms://58.215.133.185:8500:3502/live/cid=441
-FOXSPORT-3 vjms,vjms://58.215.133.185:8500:3502/live/cid=95
-纬来体育 vjms,vjms://58.215.133.185:8500:3502/live/cid=202
-国家地理野生 vjms,vjms://58.215.133.185:8500:3502/live/cid=263
-国家地理 vjms,vjms://58.215.133.185:8500:3502/live/cid=115
-探索亚洲 vjms,vjms://58.215.133.185:8500:3502/live/cid=440
-探索科学 vjms,vjms://58.215.133.185:8500:3502/live/cid=457
-动物星球 vjms,vjms://58.215.133.185:8500:3502/live/cid=3
-TLC旅游生活 vjms,vjms://58.215.133.185:8500:3502/live/cid=103
-年代MUCH vjms,vjms://58.215.133.185:8500:3502/live/cid=439
-Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
-Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
-迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
+STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
+国家地理 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
+
+探索频道 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
 
 凤凰台,#genre#
+凤凰香港台 源1,http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
+凤凰香港台 源2,http://112.17.40.139:80/PLTV/88888888/224/3221226368/index.m3u8?icpid=88888888&from=30&hms_devid=1452,1451&online=1578833861
+凤凰香港台 源3,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+
 凤凰中文台 源1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
 凤凰中文台 源2,http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
 凤凰中文台 源3,http://otttv.bj.chinamobile.com/PLTV/88888888/224/3221225942/1.m3u8
@@ -400,4 +364,37 @@ CETV-1,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv1
 CETV-3,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv3
 CETV-4,rtmp://ivi.bupt.edu.cn:1935/livetv/cetv4
 
+
+TVBS vjms,vjms://58.215.133.185:8500:3502/live/cid=349
+TVBS新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=348
+年代新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=455
+年代新闻 源1,http://61.147.122.14/flv.live.xylive.tv/live/0088ndxw.flv
+非凡新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=443
+三立新闻 vjms,vjms://58.215.133.185:8500:3502/live/cid=352
+CNBC vjms,vjms://58.215.133.185:8500:3502/live/cid=98
+ELTA体育HD vjms,vjms://58.215.133.185:8500:3502/live/cid=266
+HBO原创电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=436
+HBO原创电影mitv,mitv://198.255.74.87:9906/5dc08f0d00043b0201b7bd5c9b45d94e.ts
+HBO家庭 vjms,vjms://58.215.133.185:8500:3502/live/cid=181
+HBO强档 vjms,vjms://58.215.133.185:8500:3502/live/cid=238
+HBO强档mitv,mitv://198.255.74.87:9906/5dc08f0d000512f301b7bd94cf14a0de.ts
+HBO vjms,vjms://58.215.133.185:8500:3502/live/cid=261
+HBO mitv,mitv://198.255.74.87:9906/5dc08f1000069e8c01b7c9b1fc8f2c36.ts
+FOX电影 vjms,vjms://58.215.133.185:8500:3502/live/cid=94
+纬来戏剧 vjms,vjms://58.215.133.185:8500:3502/live/cid=137
+AXN vjms,vjms://58.215.133.185:8500:3502/live/cid=2
+公视 vjms,vjms://58.215.133.185:8500:3502/live/cid=236
+八大第一 vjms,vjms://58.215.133.185:8500:3502/live/cid=441
+FOXSPORT-3 vjms,vjms://58.215.133.185:8500:3502/live/cid=95
+纬来体育 vjms,vjms://58.215.133.185:8500:3502/live/cid=202
+国家地理野生 vjms,vjms://58.215.133.185:8500:3502/live/cid=263
+国家地理 vjms,vjms://58.215.133.185:8500:3502/live/cid=115
+探索亚洲 vjms,vjms://58.215.133.185:8500:3502/live/cid=440
+探索科学 vjms,vjms://58.215.133.185:8500:3502/live/cid=457
+动物星球 vjms,vjms://58.215.133.185:8500:3502/live/cid=3
+TLC旅游生活 vjms,vjms://58.215.133.185:8500:3502/live/cid=103
+年代MUCH vjms,vjms://58.215.133.185:8500:3502/live/cid=439
+Fashion,https://bozztv.com/36bay2/gin/giniko_modelinc_2000kb_36bay2/tracks-v1a1/mono.m3u8
+Fashion vjms,vjms://58.215.133.185:8500:3502/live/cid=399
+迪斯尼 vjms,vjms://58.215.133.185:8500:3502/live/cid=361
 
