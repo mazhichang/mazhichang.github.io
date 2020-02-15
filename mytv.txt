@@ -59,6 +59,15 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 高尔夫频道,http://nclive.grtn.cn/grfpd/sd/live.m3u8
 南方购物,http://nclive.grtn.cn/nfgw/sd/live.m3u8
 
+广州综合,http://aplay.gztv.com/sec/zhonghe.m3u8
+广州新闻,http://aplay.gztv.com/sec/xinwen.m3u8
+广州法治,http://aplay.gztv.com/sec/jingji.m3u8
+广州竞赛,http://aplay.gztv.com/sec/jingsai.m3u8
+广州影视,http://aplay.gztv.com/sec/yingshi.m3u8
+广州少儿,http://aplay.gztv.com/sec/shaoer.m3u8
+广州生活,http://aplay.gztv.com/sec/shenghuo.m3u8
+广州购物,http://aplay.gztv.com/sec/gouwu.m3u8
+
 佛山综合,http://dslive.grtn.cn/fszh/sd/live.m3u8
 佛山综合 rtmp,rtmp://pili-live-rtmp.wdit.com.cn/wditlive/fs_zhpd
 佛山公共,http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
