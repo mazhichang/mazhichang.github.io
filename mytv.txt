@@ -7,8 +7,8 @@
 ViuTV iptv,http://192.168.10.212/iptv_curl.php?act=play&token=f2c0b3f8d17f851fe98200ad873e22b7&tid=gt&id=8
 广东体育HD iptv,http://192.168.10.212/iptv_curl.php?act=play&token=e7d34918592df9d748c0df1454c198b2&tid=ty&id=6
 
-无线新闻台 tvb,http://192.168.10.212/tvb_news.php
-无线财经台 tvb,http://192.168.10.212/tvb_finance.php
+无线新闻台 tvb,http://192.168.10.212/tvb_news_curl.php
+无线财经台 tvb,http://192.168.10.212/tvb_finance_curl.php
 
 广州综合 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5#http://192.168.10.212/gztv_curl.php?id=5c7f7072e4b01c17db18fbd5
 广州新闻 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3#http://192.168.10.212/gztv_curl.php?id=5c7f6f73e4b01c17db18fbd3
@@ -18,20 +18,20 @@ ViuTV iptv,http://192.168.10.212/iptv_curl.php?act=play&token=f2c0b3f8d17f851fe9
 广州少儿 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf#http://192.168.10.212/gztv_curl.php?id=5c7f711de4b01c17db18fbdf
 广州生活 gztv,http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd#http://192.168.10.212/gztv_curl.php?id=5c7f70fee4b01c17db18fbdd
 
-湖南经视 mgtv,http://192.168.10.212/mgtv.php?id=280
-湖南都市 mgtv,http://192.168.10.212/mgtv.php?id=346
-湖南公共 mgtv,http://192.168.10.212/mgtv.php?id=261
-湖南娱乐 mgtv,http://192.168.10.212/mgtv.php?id=344
-湖南电视剧 mgtv,http://192.168.10.212/mgtv.php?id=484
-湖南国际 mgtv,http://192.168.10.212/mgtv.php?id=229
-金鹰纪实 mgtv,http://192.168.10.212/mgtv.php?id=316
-金鹰卡通 mgtv,http://192.168.10.212/mgtv.php?id=287
-先锋兵羽 mgtv,http://192.168.10.212/mgtv.php?id=329
-快乐垂钓 mgtv,http://192.168.10.212/mgtv.php?id=218
-茶频道 mgtv,http://192.168.10.212/mgtv.php?id=578
-长沙新闻 mgtv,http://192.168.10.212/mgtv.php?id=269
-长沙政法 mgtv,http://192.168.10.212/mgtv.php?id=254
-长沙女性 mgtv,http://192.168.10.212/mgtv.php?id=230
+湖南经视 mgtv,http://192.168.10.212/mgtv_curl.php?id=280
+湖南都市 mgtv,http://192.168.10.212/mgtv_curl.php?id=346
+湖南公共 mgtv,http://192.168.10.212/mgtv_curl.php?id=261
+湖南娱乐 mgtv,http://192.168.10.212/mgtv_curl.php?id=344
+湖南电视剧 mgtv,http://192.168.10.212/mgtv_curl.php?id=484
+湖南国际 mgtv,http://192.168.10.212/mgtv_curl.php?id=229
+金鹰纪实 mgtv,http://192.168.10.212/mgtv_curl.php?id=316
+金鹰卡通 mgtv,http://192.168.10.212/mgtv_curl.php?id=287
+先锋兵羽 mgtv,http://192.168.10.212/mgtv_curl.php?id=329
+快乐垂钓 mgtv,http://192.168.10.212/mgtv_curl.php?id=218
+茶频道 mgtv,http://192.168.10.212/mgtv_curl.php?id=578
+长沙新闻 mgtv,http://192.168.10.212/mgtv_curl.php?id=269
+长沙政法 mgtv,http://192.168.10.212/mgtv_curl.php?id=254
+长沙女性 mgtv,http://192.168.10.212/mgtv_curl.php?id=230
 
 
 广东台,#genre#
