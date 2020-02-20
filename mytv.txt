@@ -135,6 +135,7 @@ viu 6,p2p://lino.homeunix.com:6007/5b389c92000621bc35b08cbd438b4298.ts
 香港综合,http://cn-gdgz4-cmcc-live-01.live-play.acgvideo.com/live-bvc/live_2809908_2574327.m3u8
 
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
+新唐人亞太,https://live.ntdimg.com/aplive200/playlist.m3u8
 
 耀才财经,http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 
@@ -171,6 +172,10 @@ STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 国家地理 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/natlgeo
 
 探索频道 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/discovery
+
+亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
+
+NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
 
 凤凰台,#genre#
 凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
