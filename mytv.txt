@@ -92,16 +92,22 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 
 香港/澳门,#genre#
 翡翠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=188&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+翡翠台,http://live.ergt4rt.wang/gangaotai.php?id=1
 
 明珠台[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=12&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
+明珠台,http://live.ergt4rt.wang/gangaotai.php?id=13
+
+翡翠台J2,http://live.ergt4rt.wang/gangaotai.php?id=12
 
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
 无线新闻台 源2,http://www.liveviptv.xyz/tv/tvb.php
+无线新闻台 源3,http://live.ergt4rt.wang/gangaotai.php?id=9
 无线新闻台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 无线新闻台 P2p2,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 无线新闻台 P2p3,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
 
 无线财经台 源1,http://prdsecurelive.ainemo.com/live/234cjcj.m3u8
+无线财经台 源2,http://live.ergt4rt.wang/gangaotai.php?id=10
 无线财经台 P2p1,P2p://sdgdklwos.finetv.tv:9906/59fd314f000be93d02d51ae40a3a24e8
 无线财经台 P2p2,p2p://lino.homeunix.com:6007/59fd314f000be93d02d51ae40a3a24e8.ts
 
@@ -110,7 +116,10 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 有线新闻台 源3,https://ottproxy2.mott.tv/livehls/MOB-SCC/02.m3u8
 有线新闻台 源4,https://ottproxy2.mott.tv/livehls/MOB-SCC/03.m3u8?sessionID=XNoSKsoyhu+3ZzGxIn6l1Azz
 
-有线财经资讯台,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
+有线综合娱乐,http://wowgua.com/live/channel_301.m3u8
+
+有线财经资讯,http://wowgua.com/live/channel_108.m3u8
+有线财经资讯,https://icable.cdn.utvhk.com/live/5bcdb730f6be41868ac15afffbb67152/3d27db5ab65942eda36b25374669990d.m3u8
 
 唐人,https://live.ntdimg.com/uwlive990/playlist.m3u8
 新唐人亞太,https://live.ntdimg.com/aplive200/playlist.m3u8
@@ -123,10 +132,12 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 香港卫视 源2,http://zhibo.hkstv.tv/livestream/mutfysrq.flv
 香港卫视 源3,http://cctvalih5ca.v.myalicdn.com/cstv/xianggangweishi_2/index.m3u8
 
-星空卫视 源1,http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
+星空卫视[电信],http://116.199.5.51:8114/index.m3u8?Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=&Pcontent_id=.m3u8
 星空卫视 源2,http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=&Provider_id=&Fsv_chan_hls_se_idx=233
 星空卫视 源3,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=233&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 星空卫视 rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/startv
+
+澳视,http://61.244.22.4/ch3/ch3.live/playelist.m3u8
 
 澳门莲花 源1,http://live-rtmp.macaulotustv.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 澳门莲花 源2,http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
@@ -140,6 +151,8 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 澳视澳门 源1,http://61.244.22.4/ch1/ch1.live/playelist.m3u8
 澳视澳门 源2,http://61.244.22.4/ch1/ch1.live/chunklist_w373079640.m3u8
 
+澳视资讯,http://61.244.22.4/ch5/info_ch5.live/playlist.m3u8
+
 Channel[V]rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/channelv
 
 MTV[电信],http://116.199.5.52:8114/00000000/index.m3u8?&Fsv_ctype=LIVES&Fsv_otype=1&FvSeid=5abd1660af1babb4&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=202&Fsv_rate_id=0&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=1
@@ -152,10 +165,19 @@ STAR SPORTS rtmp,rtmp://ivi.bupt.edu.cn:1935/livetv/starsports
 
 亚旅卫视,http://hls.jingchangkan.tv/jingchangkan/156722438_0HaM/index.m3u8
 
-NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+日本NHK华语,https://nhkw-zh-hlscomp.akamaized.net/ixxemlzk1vqvy44o/playlist.m3u8
+日本NHK英语,https://nhkw-zh-hlscomp.akamaized.net/8thz5iufork8wjip/playlist.m3u8
+日本全天新闻,https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
+
+阳光卫视,https://stream.chinasuntv.com/680k/mid_video_index.m3u8
+
+C+,https://ottproxy2.mott.tv/livehls:cmi/MOB-U1-NO/01.m3u8
+
+香港時,http://tvbilive10-i.akamaihd.net/hls/live/494663/CJHK5/CJHK5-04.m3u8
 
 凤凰台,#genre#
-凤凰香港台,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+凤凰香港台 源1,http://192.154.103.75:8080//ZZ_fenghuangxianggang/ZZ_fenghuangxianggang.m3u8
+凤凰香港台 源2,http://qlive.fengshows.cn/live720p/PHK.flv?txSecret=daefe6664bbeadcfb4ee2338a48d041c&txTime=16f1ea41738
 
 凤凰中文台 源6,http://liveali.ifeng.com/live/FHZW.m3u8
 凤凰中文台 源1,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
