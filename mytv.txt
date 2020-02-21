@@ -111,6 +111,7 @@ TVS5广东少儿,http://nclive.grtn.cn/tvs5/sd/live.m3u8
 
 无线新闻台[有家],http://47.240.60.73/hktv.php?id=9
 无线新闻台 源1,http://sousou2.top:80/dl/tvb.php?id=inews
+无线新闻台 源2,http://www.liveviptv.xyz/tv/tvb.php
 无线新闻台 P2p1,P2p://sdgdklwos.finetv.tv:9906/5ad32bdc000b780449ee52022e841cf7
 无线新闻台 P2p2,p2p://lino.homeunix.com:6007/5ad32bdc000b780449ee52022e841cf7.ts
 无线新闻台 P2p3,p2p://lino.homeunix.com:6007/5a562bec0007bfd761a2998e00b83dd5.ts
