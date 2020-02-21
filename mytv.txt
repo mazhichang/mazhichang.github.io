@@ -49,7 +49,7 @@ HBO HD iptv,http://192.168.10.212/iptv_curl.php?act=play&token=ace9e33e0402c3504
 广东体育HD,https://116.77.72.195/streams/d/gdty/playlist.m3u8
 广东国际,http://nclive.grtn.cn/gjpd/sd/live.m3u8
 广东房产,http://nclive.grtn.cn/fcpd/sd/live.m3u8
-珠江电影,http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
+珠江电影[电信],http://116.199.5.51:8114/hls/Fsv_chan_hls_se_idx=7&FvSeid=1&Fsv_ctype=LIVES&Fsv_otype=1&Provider_id=0&Pcontent_id=8114.m3u8
 南方卫视*,http://223.110.245.153/ott.js.chinamobile.com/PLTV/3/224/3221227005/index.m3u8
 岭南戏曲[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221227225/10000100000000060000000000990089_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPBlKSFKAWQ93IqM8mMlpFAA==:20200129225117,02040597503
 粤曲荟萃[电信],rtsp://183.59.156.50/PLTV/88888905/224/3221228100/10000100000000060000000007150280_0.smil?rrsip=125.88.104.45,rrsip=125.88.70.140&icpid=SSPID&accounttype=1&limitflux=-1&limitdur=-1&accountinfo=l1bOb+rWnGLsMH2vnqMwH+TQJOWwn0pSG4U0oYH86IunvenJBN/AmxLcGmRJOCI2SpF9InVI1bEOUE5lVuiiqRrmVydJlz8zWKjkSpmOQG881rseWBawyuny440wDrUPwKi63WlfjIZlVcffjQu5lQ==:20200129225117,02040597503
