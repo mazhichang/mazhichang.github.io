@@ -1,17 +1,19 @@
 自建源,#genre#
+清除缓存,http://192.168.10.212/delalltxt.php
+
 翡翠台 iptv_test,http://192.168.10.212/tvb_iptv_test_curl.php
 
 CCTV_1 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=dd9eb4bade90722e905fa8a980208692&tid=fjitv&id=1
-翡翠台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=f3b3e59b3211d1c7ccc18e0d6abab08b&tid=gt&id=1
-翡翠台J2 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=0ce6fb207acce01a88dd190d12656e4a&tid=gt&id=12
-明珠台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=c3ca4e89bf2c04844713aa7d4b40d47e&tid=gt&id=13
-viuTV iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=133ce40b943e0efd90e912a1b2b66d9c&tid=gt&id=8
-无线新闻台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=8dee3b01dc7d96b65085f1f319d1aa24&tid=gt&id=9
-无线财经台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=94dbb7a447e6b20edc4839dcd9287096&tid=gt&id=10
-TVB星河 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7ecad2e959cc4036822b493ea19c76fb&tid=gt&id=17
-有线新闻台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=29310f68ab347ddd46e216c3e6591c46&tid=gt&id=31
-HBO HD iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=ace9e33e0402c3504465fd7fdf7fb802&tid=gt&id=27
-广东体育HD iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7dbad4b2ca22597d470427d81a84d25f&tid=ty&id=6
+翡翠台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=3d569fcd48b60cf6ef0e70cb9ee48931&tid=gt&id=1
+翡翠台J2 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7abe20057dc5a405bbff552e3280cda6&tid=gt&id=12
+明珠台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=4d114682e44a65445441f4bdfae836bd&tid=gt&id=13
+viuTV iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=4a22e6476e0526053369d682329ec96f&tid=gt&id=8
+无线新闻台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=22455f59a0ecb99688e655d343935bd9&tid=gt&id=9
+无线财经台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7cc7a911a79b493232bf0cf4439588a7&tid=gt&id=10
+TVB星河 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7b29bea0cf6a96f3aa9b30f0f973fc56&tid=gt&id=17
+有线新闻台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=e6999c08138683dccc4186e40661fbc3&tid=gt&id=31
+HBO HD iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=43509f5ea81636570bd52f93609b737d&tid=gt&id=27
+广东体育HD iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=2e1f18a968afac88cf7ae5e75d84d104&tid=ty&id=6
 
 无线新闻台 tvb,http://192.168.10.212/tvb_news_curl.php
 无线财经台 tvb,http://192.168.10.212/tvb_finance_curl.php
