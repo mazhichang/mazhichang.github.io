@@ -1,7 +1,4 @@
 自建源,#genre#
-清除缓存,http://192.168.10.212/delalltxt.php
-
-翡翠台 iptv_test,http://192.168.10.212/tvb_iptv_test_curl.php
 
 CCTV_1 iptv,http://192.168.10.212/iptv_curl.php?act=play&token=dd9eb4bade90722e905fa8a980208692&tid=fjitv&id=1
 
@@ -40,6 +37,9 @@ HBO HD iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=43509f5ea8163
 长沙政法 mgtv,http://192.168.10.212/mgtv_curl.php?id=254
 长沙女性 mgtv,http://192.168.10.212/mgtv_curl.php?id=230
 
+翡翠台 iptv_test,http://192.168.10.212/tvb_iptv_test_curl.php
+
+*清除缓存*,http://192.168.10.212/delalltxt.php
 
 广东台,#genre#
 广东珠江,http://nclive.grtn.cn/zjpd/sd/live.m3u8
