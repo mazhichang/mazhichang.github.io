@@ -1,6 +1,7 @@
 自建源,#genre#
 
 CCTV_1 iptv,http://192.168.10.212/iptv_curl.php?act=play&token=dd9eb4bade90722e905fa8a980208692&tid=fjitv&id=1
+凤凰香港台,http://192.168.10.212/iptv_curl.php?act=play&token=331c0e7c63fbd4124d02dd228b0a85fa&tid=gt&id=4
 
 翡翠台 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=3d569fcd48b60cf6ef0e70cb9ee48931&tid=gt&id=1
 翡翠台J2 iptv,http://192.168.10.212/iptv_curl_txt.php?act=play&token=7abe20057dc5a405bbff552e3280cda6&tid=gt&id=12
